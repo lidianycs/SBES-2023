@@ -11,6 +11,26 @@ The data was collected and stored in the repository to preserve the evidence and
  
 The repository contains the following material:
 
-In the images folder, you will find all the images used in our folder.
+1. In the images folder, you will find all the images used in our paper:
+- [empathy-framework](/images/empathy-framework)
+Figure 3 of the paper: A conceptual map of the meaning (boxes in orange) and 
+the value (boxes in blue) of empathy according to the software practitioners
 
-In the data folder, you will find all the spreadsheets with data generated in the extraction process.
+- [empathy-model.jpg](/images/empathy-model) 
+Figure 4 of the paper: A conceptual framework for communication and collaboration (A), 
+management and leadership (B), coding (C), and code review (D).
+
+2. In the data folder, you will find all the spreadsheets with data generated in the extraction process.
+
+- [all_codes.ods](data/all_codes.ods) and [all_codes.xls](data/all_codes.xls)
+All codes generated in the data extraction process, considering research questions RQ1-RQ5:
+The two files have the same content in different formats - ODS and XLSX.
+
+ - [dataset](dataset.csv) 
+The list of web articles collected from the DEV in CSV format with all inclusion and 
+exclusion information, plus demographic data.
+
+- [extraction.ods](data/extraction.ods) and [extraction.xlsx](data/extraction.xlsx).
+  The data extracted from the web articles, including codes and quotes for each research question. 
+The two files have the same content in different formats - ODS and XLSX.
+
