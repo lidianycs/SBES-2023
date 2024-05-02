@@ -29,3 +29,7 @@ The list of web articles collected from the DEV in CSV format with all inclusion
 
 - [extraction.ods](data/extraction.ods) and [extraction.xlsx](data/extraction.xlsx).
   The data extracted from the web articles, including codes and quotes for each research question. The two files have the same content in different formats - ODS and XLSX.
+
+## Contact
+   - If you have any questions or are interested in contributing to future studies, please don't hesitate to contact me:
+     - :envelope: [lidiany.cerqueira@ufba.br](mailto:lidiany.cerqueira@ufba.br)
